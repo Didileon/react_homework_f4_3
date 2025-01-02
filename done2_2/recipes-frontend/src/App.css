@@ -1,0 +1,141 @@
+.header {
+    background-color: black;
+    color: white;
+    padding: 30px;
+
+}
+
+.container-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1%;
+
+}
+.baseText {
+    font-size: 25px;
+    font-weight: bold;
+}
+.nav ul {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    color: white;
+}
+
+.item {
+    list-style: none;
+    margin-right: 40px;
+    
+}
+
+.main {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.categories {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+   
+}
+
+.recipes {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex ;
+    
+}
+
+.recipes1 {
+text-align: center;
+
+}
+
+.home {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+}
+.desserts {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+   
+}
+.soups {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+   
+}
+.salats {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+   
+}
+
+.api {
+    background-color: burlywood;
+    color: black;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+
+
+}
+
+.api1 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.api2 {
+    text-align: center;
+    font-size: 16px;
+
+}
+
+.api3 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}

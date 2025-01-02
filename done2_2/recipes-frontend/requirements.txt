@@ -1,0 +1,9 @@
+frontend команды: npm install,  npm run build, npm start
+beckend команда: python manage.py runserver
+
+npm i react-router-dom
+install django-cors-headers
+npm i axios
+pip install drf-yasg
+pip install django djangorestframework
+pip install django-filter
